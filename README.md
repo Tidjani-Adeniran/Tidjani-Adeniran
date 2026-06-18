@@ -90,15 +90,7 @@ A productivity-focused application designed to help users stay organized and man
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tidjani-Adeniran&layout=compact&theme=tokyonight"/>
 </p>
 
----
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tidjani-Adeniran&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌱 Currently Learning
 
