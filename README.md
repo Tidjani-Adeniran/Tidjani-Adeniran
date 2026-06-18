@@ -96,7 +96,6 @@ A productivity-focused application designed to help users stay organized and man
 
 * Artificial Intelligence
 * Machine Learning
-* Flutter Development
 * Cloud Computing
 * Startup Growth & Product Strategy
 
