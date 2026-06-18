@@ -44,6 +44,7 @@ I am passionate about Artificial Intelligence, intelligent systems, and product-
 ### Backend & Frameworks
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Databases
 
